@@ -1,0 +1,5 @@
+Typography: I used "Inter" via Google Fonts, which is very similar to the typeface in your image. It’s highly readable and professional.
+
+Colors: The green used is approximately #5ba360. The button uses a standard "Primary Blue" (#3b71ca).
+
+Responsive Design: The card width is fixed at 350px, but you can change it to max-width: 90% if you want it to shrink on very small mobile screens.
